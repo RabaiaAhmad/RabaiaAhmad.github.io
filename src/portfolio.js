@@ -465,8 +465,8 @@ const experience = {
         },
         {
           title: "Software Developer",
-          company: "Logitude World",
-          company_url: "https://www.logitudeworld.com",
+          company: "NourSoft",
+          company_url: "https://www.NourSoft.com",
           logo_path: "noursoft.png",
           duration: "August 2012 - May 2015",
           location: "Ramallah, Palestinian Territory",
