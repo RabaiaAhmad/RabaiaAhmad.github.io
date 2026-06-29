@@ -123,12 +123,12 @@ export default class Main extends Component {
 								/>
 							)}
 						/> */}
-              {/* <Route
+              <Route
                 path="/projects"
                 render={(props) => (
                   <Projects {...props} theme={this.props.theme} />
                 )}
-              /> */}
+              />
             </Switch>
           </HashRouter>
         </div>

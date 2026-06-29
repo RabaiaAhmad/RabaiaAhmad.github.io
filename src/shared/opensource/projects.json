@@ -1,1 +1,151 @@
-{"data":[{"id":"MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=","name":"masterPortfolio","createdAt":"2020-03-06T16:26:54Z","url":"https://github.com/ashutosh1919/masterPortfolio","description":"The complete portfolio website hosted using github pages (gh-pages). Visit the website here : ","isFork":false,"languages":[{"name":"HTML","iconifyClass":"logos-html-5"},{"name":"CSS","iconifyClass":"logos-css-3"},{"name":"JavaScript","iconifyClass":"logos-javascript"}]},{"id":"MDEwOlJlcG9zaXRvcnkyNjkwNzUwMjM=","name":"truvisory","createdAt":"2020-06-03T11:53:55Z","url":"https://github.com/ashutosh1919/truvisory","description":"This project is meant to provide resources to users who want to access good LinkedIn posts which contains resources to learn any Technology, Design, Self-Branding, Motivation etc. You can visit project by:","isFork":false,"languages":[{"name":"HTML","iconifyClass":"logos-html-5"},{"name":"CSS","iconifyClass":"logos-css-3"},{"name":"JavaScript","iconifyClass":"logos-javascript"}]},{"id":"MDEwOlJlcG9zaXRvcnkyNzM1MTI1NTE=","name":"ml-data-bot","createdAt":"2020-06-19T14:24:55Z","url":"https://github.com/ashutosh1919/ml-data-bot","description":"Chatbot which helps you to get important statistics from the data to get insights to build Machine learning, Deep learning and Statistical models","isFork":false,"languages":[{"name":"Python","iconifyClass":"logos-python"}]},{"id":"MDEwOlJlcG9zaXRvcnkxNTU5NTE3NTk=","name":"Stock-Prediction-using-LSTM","createdAt":"2018-11-03T05:00:56Z","url":"https://github.com/ashutosh1919/Stock-Prediction-using-LSTM","description":"This Project is predicting stocks for 32 companies with error less than 1% using LSTM Networks.","isFork":false,"languages":[{"name":"Python","iconifyClass":"logos-python"},{"name":"Jupyter Notebook","iconifyClass":"logos-jupyter"}]},{"id":"MDEwOlJlcG9zaXRvcnkyMDIxNDc4ODA=","name":"Pick-Parser","createdAt":"2019-08-13T13:13:00Z","url":"https://github.com/dsc-iiitdmk/Pick-Parser","description":"This Project is to create a tool which can parse the Resumes and transform them into our own templates","isFork":false,"languages":[{"name":"Python","iconifyClass":"logos-python"}]},{"id":"MDEwOlJlcG9zaXRvcnkxODIxMjk3NTQ=","name":"Survival_3D_Game","createdAt":"2019-04-18T17:25:51Z","url":"https://github.com/ashutosh1919/Survival_3D_Game","description":"Survival Game using Unity3D","isFork":false,"languages":[{"name":"C#","iconifyClass":"logos-c-sharp"}]}]}
+{
+  "data": [
+    {
+      "id": "proj-logistics-saas",
+      "name": "Logistics / Freight Forwarding SaaS Platform",
+      "createdAt": "2015-05-01T00:00:00Z",
+      "url": "https://github.com/RabaiaAhmad",
+      "description": "Worked on a freight forwarding SaaS platform covering shipments, quotes, routing, cargo, parties, documents, and operational workflows. Improved operational workflows, usability, and maintainability for logistics users.",
+      "languages": [
+        {
+          "name": ".NET",
+          "iconifyClass": "logos:dotnet"
+        },
+        {
+          "name": "C#",
+          "iconifyClass": "logos:c-sharp"
+        },
+        {
+          "name": "Angular",
+          "iconifyClass": "logos:angular-icon"
+        },
+        {
+          "name": "SQL Server",
+          "iconifyClass": "simple-icons:microsoftsqlserver"
+        }
+      ]
+    },
+    {
+      "id": "proj-workflow-engine",
+      "name": "Workflow Automation Engine",
+      "createdAt": "2020-01-01T00:00:00Z",
+      "url": "https://github.com/RabaiaAhmad",
+      "description": "Worked on workflow automation capabilities including workflow definitions, executions, triggers, queues, failed-execution handling, and monitoring. Improved process automation, execution tracking, diagnostics, and system visibility.",
+      "languages": [
+        {
+          "name": ".NET",
+          "iconifyClass": "logos:dotnet"
+        },
+        {
+          "name": "C#",
+          "iconifyClass": "logos:c-sharp"
+        },
+        {
+          "name": "SQL Server",
+          "iconifyClass": "simple-icons:microsoftsqlserver"
+        }
+      ]
+    },
+    {
+      "id": "proj-integration-platform",
+      "name": "Logistics Integration Platform",
+      "createdAt": "2021-01-01T00:00:00Z",
+      "url": "https://github.com/RabaiaAhmad",
+      "description": "Worked on integrations between logistics systems and external platforms, including message processing, validation, retries, duplicate and out-of-order handling, synchronization, and troubleshooting. Improved reliability and traceability of integration flows and reduced operational issues from failed or inconsistent messages.",
+      "languages": [
+        {
+          "name": ".NET",
+          "iconifyClass": "logos:dotnet"
+        },
+        {
+          "name": "C#",
+          "iconifyClass": "logos:c-sharp"
+        },
+        {
+          "name": "REST APIs",
+          "iconifyClass": "eos-icons:api"
+        }
+      ]
+    },
+    {
+      "id": "proj-production-diagnostics",
+      "name": "Production Diagnostics & Performance Investigation",
+      "createdAt": "2021-06-01T00:00:00Z",
+      "url": "https://github.com/RabaiaAhmad",
+      "description": "Investigated production issues across SQL Server, Azure SQL, and IIS, including high CPU, blocking, query performance, wait statistics, logs, and monitoring dashboards. Improved incident analysis, operational visibility, and system stability.",
+      "languages": [
+        {
+          "name": "SQL Server",
+          "iconifyClass": "simple-icons:microsoftsqlserver"
+        },
+        {
+          "name": "Azure",
+          "iconifyClass": "simple-icons:microsoftazure"
+        },
+        {
+          "name": "Grafana",
+          "iconifyClass": "logos:grafana"
+        }
+      ]
+    },
+    {
+      "id": "proj-ai-logistics-ops",
+      "name": "AI-Assisted Logistics Operations",
+      "createdAt": "2024-01-01T00:00:00Z",
+      "url": "https://github.com/RabaiaAhmad",
+      "description": "Built and explored AI-assisted workflows for logistics operations: booking-confirmation email extraction, shipment-update review flows, airline tracking extraction, and human-in-the-loop automation. Explored practical AI use cases that reduce manual work while keeping business users in control.",
+      "languages": [
+        {
+          "name": "OpenAI",
+          "iconifyClass": "simple-icons:openai"
+        },
+        {
+          "name": "Python",
+          "iconifyClass": "ion-logo-python"
+        },
+        {
+          "name": ".NET",
+          "iconifyClass": "logos:dotnet"
+        }
+      ]
+    },
+    {
+      "id": "proj-carrier-compliance",
+      "name": "Carrier Compliance SaaS MVP",
+      "createdAt": "2024-06-01T00:00:00Z",
+      "url": "https://github.com/RabaiaAhmad",
+      "description": "Designed and built a SaaS MVP for carrier compliance: insurance-certificate tracking, expiration alerts, audit history, compliance status, and lightweight operational dashboards. Demonstrated building a product concept from idea to deployable MVP.",
+      "languages": [
+        {
+          "name": "React",
+          "iconifyClass": "simple-icons:react"
+        },
+        {
+          "name": "PostgreSQL",
+          "iconifyClass": "logos:postgresql"
+        },
+        {
+          "name": "Docker",
+          "iconifyClass": "logos:docker-icon"
+        }
+      ]
+    },
+    {
+      "id": "proj-tms-concept",
+      "name": "Lightweight Freight Management SaaS — TMS Product Concept",
+      "createdAt": "2025-01-01T00:00:00Z",
+      "url": "https://github.com/RabaiaAhmad",
+      "description": "Designed a modern lightweight TMS concept covering shipments, quotes, consoles, parties, cargo, routing, documents, onboarding, sample data, and multilingual support. Converted logistics domain knowledge into structured requirements, backlogs, and user workflows.",
+      "languages": [
+        {
+          "name": "React",
+          "iconifyClass": "simple-icons:react"
+        },
+        {
+          "name": "TypeScript",
+          "iconifyClass": "logos:typescript-icon"
+        }
+      ]
+    }
+  ]
+}
